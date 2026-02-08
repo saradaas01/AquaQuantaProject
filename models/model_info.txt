@@ -1,0 +1,4 @@
+Best Model: KNN
+MAPE: 1.78%
+MAE: 0.63
+R2: 0.986
